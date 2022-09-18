@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
-=======================================
+Bem-Vindo ao Tutorial de Introdução ao Python
+===============================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Este arquivo pode ser visualizado na web page do read the docs a partir do seguinte link:
+ introducao-python-tuto.rtfd.io
+ 
+O presente documento é baseado no Sphinxs. Template read the docs.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+© Copyright 2021, Emanuelle Simas
