@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Introdução ao Python'
-copyright = '2021, Emanuelle Simas'
+copyright = '2021, Simas Organization'
 author = 'Emanuelle Simas'
 
 release = '0.1'
