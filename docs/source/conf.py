@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Introdução ao Python'
+copyright = '2021, Emanuelle Simas'
+author = 'Emanuelle Simas'
 
 release = '0.1'
 version = '0.1.0'
